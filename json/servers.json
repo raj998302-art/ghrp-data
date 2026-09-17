@@ -1,0 +1,16 @@
+[
+    {
+        "color": "00E676",
+        "dopname": "(INDIA)",
+        "maxonline": 500,
+        "name": "MAIN",
+        "online": 0
+    },
+    {
+        "color": "FFC107",
+        "dopname": "(TEST)",
+        "maxonline": 100,
+        "name": "TEST",
+        "online": 0
+    }
+]
